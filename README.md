@@ -1,5 +1,6 @@
 # Hi there, I'm Tiffia Jose! 👋
 🚀 **Platform & Site Reliability Engineer | Azure | Terraform | Kubernetes**
+
 Welcome to my GitHub! I'm a **Platform Engineer** with expertise in **Terraform, Azure, and GitHub administration**, transitioning into **Site Reliability Engineering (SRE)**. I focus on automating infrastructure, improving reliability, and optimizing cloud deployments.
 
 ---
