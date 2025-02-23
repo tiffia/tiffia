@@ -46,12 +46,6 @@ Welcome to my GitHub! I'm a **Platform Engineer** with expertise in **Terraform,
 
 ---
 
-## 📈 **Stats That Speak**  
-[![Tiffia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiffia&show_icons=true&theme=radical)](https://github.com/tiffiajose)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffia&layout=compact&theme=radical)](https://github.com/tiffiajose)  
-
----
-
 ⭐ **Fun Side Project**: Working on NoCode Terraform templates - to ruleout human intervention..(as far as possible)!  
 
 📢 **Your turn!** Fork, explore, and join my journey!
