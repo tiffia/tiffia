@@ -1,36 +1,46 @@
-## Hi there 👋
-
-# Welcome to My Tiffia's Profile!
-Hello there! I'm **Tiffia Jose**, a **Platform/Data Engineer** transitioning into **Site Reliability Engineering** 🚀. With expertise in **Terraform**, **Microsoft Azure**, and **GitHub**, I specialize in creating efficient, scalable, and secure infrastructure solutions while fostering collaboration and innovation.  
-Take a look around, and let’s solve puzzles together! 🤓✨  
-
-![Profile Banner](https://via.placeholder.com/1200x300?text=Your+Awesome+Banner+Here)
-
----
-## 💼 **About Me**  
-🔹 **Role:** Platform/Data Engineer 🛠️ transitioning into **Site Reliability Engineer** 🌐  
-🔹 **Experience:** 5+ years in **Platform Engineering** & **Data Engineering**  
-🔹 **Certifications:** AZ-900, DP-203  
-🔹 **Skills:** Terraform, Azure, GitHub Actions, IAC, Data Pipelines  
-🔹 **Passion:** Building secure, reusable, and scalable infrastructure 🏗️  
-🔹 **Currently Learning:**  
-  - Bash Scripting 💻  
-  - Kubernetes (K8s & K3s) 🐳  
-🔹 **Fun Fact:** I enjoy wall Pilates daily to stay fit! 🧘‍♀️  
----
-
-## 🚀 **What You'll Find Here**  
-
-✨ **Terraform Modules**: Reusable blueprints for Azure resources, optimized for scalability and security.  
-✨ **SRE Tools**: Scripts, dashboards, and guides for monitoring and automating tasks.  
-✨ **Data Engineering Projects**: SSIS to ADF migration templates and performance-optimized pipelines.  
-✨ **Learning Journey**: Tracking my growth in **Bash**, **K8s**, and more through structured projects.  
+# Hi there, I'm Tiffia Jose! 👋
+🚀 **Platform & Site Reliability Engineer | Azure | Terraform | Kubernetes**
+Welcome to my GitHub! I'm a **Platform Engineer** with expertise in **Terraform, Azure, and GitHub administration**, transitioning into **Site Reliability Engineering (SRE)**. I focus on automating infrastructure, improving reliability, and optimizing cloud deployments.
 
 ---
 
-## 🎯 **Connect & Collaborate**  
-🔗 [LinkedIn](www.linkedin.com/in/tiffia-jose)  
-📧 Email: tiffiaj@gmail.com  
+## 🔹 About Me
+- 💼 **5+ years** of experience in Platform & Data Engineering
+- ☁️ **Azure Specialist** | Terraform | Kubernetes (K3s, K8s) | GitHub Actions
+- 📦 Passionate about **Infrastructure as Code (IaC), Cloud Reliability, and DevOps**
+- 🔧 **Building & maintaining** scalable, secure cloud platforms
+- 🎯 Learning **Bash scripting, Kubernetes (K3s, K8s), and SRE best practices**
+
+---
+  
+## 🛠️ Tech Stack & Tools
+- **Cloud & Infra:** Azure, Terraform, Kubernetes (K3s, K8s)
+- **Automation:** Terraform Cloud, GitHub Actions, CI/CD
+- **Networking:** DNS, VNets, Private Endpoints
+- **Security:** Identity & Access Management (IAM), Secret Management
+- **Observability:** Application Insights, Monitoring & Alerting
+- **Languages:** Go (beginner), Bash, Python
+
+---
+
+## 📌 Ongoing Learning
+- 🏗️ **K3s & Kubernetes:** Running lightweight Kubernetes clusters
+- 📝 **Go Development:** Building & containerizing simple apps
+- 🔍 **SRE Practices:** Reliability, scalability, and incident response
+
+---
+
+## 📚 Featured Repositories
+🔹 [K3s Deployment](https://github.com/tiffia/go-app) – Deploying a simple Go app using K3s & GitHub Codespaces  
+
+---
+
+## 📫 Let's Connect!
+- 🌐 [LinkedIn](www.linkedin.com/in/tiffia-jose) 
+- ✉️ [Email](tiffiaj@gmail.com)
+
+💡 _“Infrastructure should be automated, scalable, and secure—let's build it right!”_ 🚀
+
 🤝 Always open to discussions on **Azure**, **Terraform**, and **Cloud Migrations**!  
 
 ---
@@ -41,5 +51,6 @@ Take a look around, and let’s solve puzzles together! 🤓✨
 
 ---
 
-⭐ **Fun Side Project**: Working on AI-powered Terraform templates!  
+⭐ **Fun Side Project**: Working on NoCode Terraform templates - to ruleout human intervention..(as far as possible)!  
+
 📢 **Your turn!** Fork, explore, and join my journey!
